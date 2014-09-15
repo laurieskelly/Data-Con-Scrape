@@ -85,11 +85,11 @@ if __name__ == '__main__':
     
     url = 'http://www.metacritic.com/browse/movies/release-date/theaters/date'
     soup = connection(url)    
-    movie_list = scrape_metacritic_list_page(soup,[])
+    movie_list = scrape_metacritic_list_page(soup)
 
     with open('metacritic_scrape.pkl','wb') as outfile:
         pickle.dump(movie_list,outfile)
 
-
+    # sanity check
     with open('metacritic_scrape.pkl','rb') as infile:
         print pickle.load(infile)
