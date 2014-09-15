@@ -3,7 +3,10 @@ Data-Con-Scrape
 
 ##Contents: 
 
-*  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. Clicking on the name here will take you to the published version of the notebook. Clone this repo and run it using [ipython notebook][6] to play with it interactively.
+**For all notebooks:** Clicking on the links below in this "Contents" list will take you to the published/non-interactive version of the notebook.   
+Clone this repo and run it using [ipython notebook][6] to play with it interactively.
+
+*  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. 
 
 * [Data-Con-metacritic.ipynb][7]: Scraping the site metacritic.com to get information about new releases and produce links to visit and get detailed info on each one
 
