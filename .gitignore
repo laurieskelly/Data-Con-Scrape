@@ -1,0 +1,7 @@
+*.pkl
+crap_and_old_fails/*
+crap_and_old_fails/
+*~
+#*
+.ipynb_checkpoints/
+*.pyc
