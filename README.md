@@ -3,6 +3,7 @@ Data-Con-Scrape
 
 ## My talk at [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
 
+It was advertised as "A tutorial on python for web scraping, covering BeautifulSoup, and when and how to use Selenium for dynamic pages and comment loading." What actually happened was a lively workshop with great questions, interactive bloopers (can't wait to find out if they are posting the video), and very very little Selenium. Here are the materials and some extras. ~Enjoy
 
 ##Contents: 
 
