@@ -5,6 +5,14 @@ Data-Con-Scrape
 
 *  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. Clicking on the name here will take you to the published version of the notebook. Clone this repo and run it using [ipython notebook][6] to play with it interactively.
 
+* [Data-Con-metacritic.ipynb][7]: Scraping the site metacritic.com to get information about new releases and produce links to visit and get detailed info on each one
+
+* [Data-Con-metacritic2.ipynb][8]: Digging into details on the movie links created in the first metacritic scraper
+
+* [Data-Con_Selenium.ipynb][9]: Tried to find more cool examples for Selenium, ended up finding another workaround and getting totally distracted making a scraper for datatau
+
+* [Data-Con_tauscraper.ipynb][10]: Said distraction, which turned out pretty cool. 
+
 ##Web Scraping Tips
 
 * If possible for your data collecting project, use an API instead of scraping. It is kinder to the nice people creating the data that you are collecting, more resistant to breaking, and usually more efficient to code. Scraping is "for" cases when APIs are not provided. 
@@ -40,3 +48,7 @@ Data-Con-Scrape
 [4]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_Scrape.ipynb
 [5]: http://data-con.org/
 [6]: http://ipython.org/notebook.html
+[7]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con-metacritic.ipynb
+[8]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_metacritic2.ipynb
+[9]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_Selenium.ipynb
+[10]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_tauscraper.ipynb
