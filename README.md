@@ -1,6 +1,9 @@
 Data-Con-Scrape
 ===============
 
+## [My talk](http://data-con.org/laurie-skelly/) at [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
+
+
 ##Contents: 
 
 **For all notebooks:** Clicking on the links below in this "Contents" list will take you to the published/non-interactive version of the notebook.   
@@ -46,7 +49,7 @@ Clone this repo and run it using [ipython notebook][6] to play with them interac
 * And a [helper][14] for CSS selectors
 
 ### What did I forget? 
-remind [me on twitter] or make a pull request : ) 
+remind [me on twitter][11] or make a pull request : ) 
 
 
 [1]: http://selenium-python.readthedocs.org/en/latest/
