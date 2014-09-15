@@ -9,4 +9,5 @@
 |Speaker  ![](./img/speaker.jpg) |Joe Kambourakis  ![](./img/joe_kambourakis.jpg) |John Verostek  ![](./img/john_verostek.jpg) |Speaker  ![](./img/speaker.jpg) |Laurie Skelly  ![](./img/laurie_skelly.jpg) ||
 
 
-Obviously, still needs some more tweaking. special apologies to the 'quadrupled-but-anonymous' Speaker
+Obviously, still needs some more tweaking.   
+Special apologies to the quadrupled-but-anonymous "Speaker"
