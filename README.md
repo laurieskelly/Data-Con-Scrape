@@ -1,7 +1,7 @@
 Data-Con-Scrape
 ===============
 
-## [My talk](http://data-con.org/laurie-skelly/) at [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
+## My talk at [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
 
 
 ##Contents: 
