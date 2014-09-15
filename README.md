@@ -9,7 +9,7 @@ Data-Con-Scrape
 **For all notebooks:** Clicking on the links below in this "Contents" list will take you to the published/non-interactive version of the notebook. Clone this repo and run it using [ipython notebook][6] to play with them interactively.
 
 ###[/][15]
-*  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. 
+*  [Data-Con_Scrape.ipynb][4]: Scraping a "[faces sheet][19]" of the speakers from the conference using data we scrape from the [conference website][5]. 
 
 ###[/metacritic][16]
 * [Data-Con-metacritic.ipynb][7]: Scraping the site metacritic.com to get information about new releases and produce links to visit and get detailed info on each one
@@ -75,3 +75,4 @@ remind [me on twitter][11] or make a pull request : )
 [16]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/metacritic
 [17]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/selenium
 [18]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/datatau_scraper
+[19]: https://github.com/laurieskelly/Data-Con-Scrape/blob/master/facesheet.md
