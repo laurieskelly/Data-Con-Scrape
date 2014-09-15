@@ -9,15 +9,21 @@ Data-Con-Scrape
 **For all notebooks:** Clicking on the links below in this "Contents" list will take you to the published/non-interactive version of the notebook.   
 Clone this repo and run it using [ipython notebook][6] to play with them interactively.
 
+###[/][15]
 *  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. 
 
+###[/metacritic][16]
 * [Data-Con-metacritic.ipynb][7]: Scraping the site metacritic.com to get information about new releases and produce links to visit and get detailed info on each one
 
 * [Data-Con-metacritic2.ipynb][8]: Digging into details on the movie links created in the first metacritic scraper
 
+###[/selenium][17]
 * [Data-Con_Selenium.ipynb][9]: Tried to find more cool examples for Selenium, ended up finding another workaround and getting totally distracted making a scraper for datatau
 
+###[/datatau_scraper][18]
 * [Data-Con_tauscraper.ipynb][10]: Said distraction, which turned out pretty cool. 
+
+------
 
 ##Web Scraping Tips
 
@@ -66,3 +72,7 @@ remind [me on twitter][11] or make a pull request : )
 [12]: http://www.w3schools.com/xpath/xpath_syntax.asp
 [13]: http://zvon.org/xxl/XPathTutorial/Output/example1.html
 [14]: http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+[15]: https://github.com/laurieskelly/Data-Con-Scrape 
+[16]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/metacritic
+[17]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/selenium
+[18]: https://github.com/laurieskelly/Data-Con-Scrape/tree/master/datatau_scraper
