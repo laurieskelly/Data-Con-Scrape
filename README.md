@@ -39,10 +39,14 @@ Clone this repo and run it using [ipython notebook][6] to play with them interac
 * Selenium [docs](1)
   - I think that [Waits][2] are the trickiest part of using Selenium. 
 
+* XPATH selector resources
+  - [w3schools][12] reference
+  - [oldschool-looking and awesome][13] tutorial 
 
+* And a [helper][14] for CSS selectors
 
-
-
+### What did I forget? 
+remind [me on twitter] or make a pull request : ) 
 
 
 [1]: http://selenium-python.readthedocs.org/en/latest/
@@ -51,7 +55,11 @@ Clone this repo and run it using [ipython notebook][6] to play with them interac
 [4]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_Scrape.ipynb
 [5]: http://data-con.org/
 [6]: http://ipython.org/notebook.html
-[7]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con-metacritic.ipynb
-[8]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_metacritic2.ipynb
-[9]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_Selenium.ipynb
-[10]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_tauscraper.ipynb
+[7]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/metacritic/Data-Con_metacritic.ipynb
+[8]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/metacritic/Data-Con_metacritic2.ipynb
+[9]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/selenium/Data-Con_Selenium.ipynb
+[10]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/datatau_scraper/Data-Con_tauscraper.ipynb
+[11]: https://twitter.com/laurieskelly
+[12]: http://www.w3schools.com/xpath/xpath_syntax.asp
+[13]: http://zvon.org/xxl/XPathTutorial/Output/example1.html
+[14]: http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
