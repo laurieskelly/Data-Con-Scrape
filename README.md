@@ -3,7 +3,7 @@ Data-Con-Scrape
 
 ##Contents: 
 
-*  
+*  [Data-Con_Scrape.ipynb][4]: Scraping a "faces sheet" of the speakers from the conference using data we scrape from the [conference website][5]. Clicking on the name here will take you to the published version of the notebook. Clone this repo and run it using [ipython notebook][6] to play with it interactively.
 
 ##Web Scraping Tips
 
@@ -37,3 +37,6 @@ Data-Con-Scrape
 [1]: http://selenium-python.readthedocs.org/en/latest/
 [2]: http://selenium-python.readthedocs.org/en/latest/waits.html
 [3]: https://docs.python.org/2/library/urlparse.html
+[4]: http://nbviewer.ipython.org/github/laurieskelly/Data-Con-Scrape/blob/master/Data-Con_Scrape.ipynb
+[5]: http://data-con.org/
+[6]: http://ipython.org/notebook.html
