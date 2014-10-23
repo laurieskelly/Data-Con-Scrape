@@ -1,7 +1,7 @@
 Data-Con-Scrape
 ===============
 
-## These are the companion materials for my python webscraping workshop at [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
+## These are the companion materials for my python webscraping workshop from [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
 
 The session was advertised as: "A tutorial on python for web scraping, covering BeautifulSoup, and when and how to use Selenium for dynamic pages and comment loading." What *actually* happened was a lively workshop with great questions, interactive bloopers, and very very little Selenium. Thank you to everyone who stayed to the very end to scrape some data with me. Here are the materials and some extras. ~Enjoy
 
@@ -12,7 +12,9 @@ The session was advertised as: "A tutorial on python for web scraping, covering 
 
 ##Contents: 
 
-**For all notebooks:** Clicking on the links below in this "Contents" list will take you to the published/non-interactive version of the notebook. Clone this repo and run it using [ipython notebook][6] to play with them interactively.
+**For all notebooks:**
+* Links here in the README will take you to the published/non-interactive version of the notebooks. 
+* Clone this repo and run .ipynb files using [ipython notebook][6] to play with them interactively.
 
 ###[/][15]
 *  [Data-Con_Scrape.ipynb][4]: Scraping a "[faces sheet][19]" of the speakers from the conference using data we scrape from the [conference website][5]. 
