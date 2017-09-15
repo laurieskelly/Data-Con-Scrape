@@ -9,32 +9,29 @@ The session was advertised as: "A tutorial on python for web scraping, covering 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s like trespassing and organizing your desk. <a href="https://twitter.com/laurieskelly">@laurieskelly</a> explains joy of web scraping. <a href="https://twitter.com/hashtag/bdc14?src=hash">#bdc14</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> Scrape <a href="http://t.co/CRfkv5sGgk">http://t.co/CRfkv5sGgk</a></p>&mdash; Mike Combs (@mike3d0g) <a href="https://twitter.com/mike3d0g/status/511247516202201088">September 14, 2014</a></blockquote>
 
-
-
-
-##Contents: 
+## Contents: 
 
 **For all notebooks:**
 * Links here in the README will take you to the published/non-interactive version of the notebooks. 
 * Clone this repo and run .ipynb files using [ipython notebook][6] to play with them interactively.
 
-###[/][15]
+### [/][15]
 *  [Data-Con_Scrape.ipynb][4]: Scraping a "[faces sheet][19]" of the speakers from the conference using data we scrape from the [conference website][5]. 
 
-###[/metacritic][16]
+### [/metacritic][16]
 * [Data-Con-metacritic.ipynb][7]: Scraping the site metacritic.com to get information about new releases and produce links to visit and get detailed info on each one
 
 * [Data-Con-metacritic2.ipynb][8]: Digging into details on the movie links created in the first metacritic scraper
 
-###[/selenium][17]
+### [/selenium][17]
 * [Data-Con_Selenium.ipynb][9]: Tried to find more cool examples for Selenium, ended up finding another workaround and getting totally distracted making a scraper for datatau
 
-###[/datatau_scraper][18]
+### [/datatau_scraper][18]
 * [Data-Con_tauscraper.ipynb][10]: Said distraction, which turned out pretty cool. 
 
 ------
 
-##Web Scraping Tips
+## Web Scraping Tips
 
 * If possible for your data collecting project, use an API instead of scraping. It is kinder to the nice people creating the data that you are collecting, more resistant to breaking, and usually more efficient to code. Scraping is "for" cases when APIs are not provided. 
 
@@ -48,11 +45,11 @@ The session was advertised as: "A tutorial on python for web scraping, covering 
   3. For this reason, ugly sites make great scraping targets. If a page looks like it hasn't been updated since 1998, you might infer that it is less likely to be re-styled and re-structured every 3-6 months. 
 
 
-##Random Tips
+## Random Tips
 
 * `urlparse.urljoin()` is a handy way to stick parts of a url together without messing it up and having too many or too few slashes up in there. [module docs][3]
 
-##Resources
+## Resources
 
 * Selenium [docs](1)
   - I think that [Waits][2] are the trickiest part of using Selenium. 
