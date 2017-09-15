@@ -1,9 +1,11 @@
 Data-Con-Scrape
 ===============
 
-## These are the companion materials for my python webscraping workshop from [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
+### These are the companion materials for my python webscraping workshop from [Boston Data-Con 2014](http://data-con.org/schedule/), an excellent conference that was put on by the good people of the [Boston Data Community](https://twitter.com/bostondatacomm). 
 
-The session was advertised as: "A tutorial on python for web scraping, covering BeautifulSoup, and when and how to use Selenium for dynamic pages and comment loading." What *actually* happened was a lively workshop with great questions, interactive bloopers, and very very little Selenium. Thank you to everyone who stayed to the very end to scrape some data with me. Here are the materials and some extras. ~Enjoy
+The session was advertised as: "A tutorial on python for web scraping, covering BeautifulSoup, and when and how to use Selenium for dynamic pages and comment loading." 
+
+What *actually* happened was: a lively workshop with great questions, interactive bloopers, and very very little Selenium. Thank you to everyone who stayed to the very end to scrape some data with me. Here are the materials and some extras. ~Enjoy
 
 (video of the session is posted [here](https://www.youtube.com/watch?v=oOr1dlC4-Kc))
 
