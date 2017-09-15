@@ -7,8 +7,10 @@ The session was advertised as: "A tutorial on python for web scraping, covering 
 
 (video of the session is posted [here](https://www.youtube.com/watch?v=oOr1dlC4-Kc))
 
-<blockquote class="twitter-tweet" lang="en"><p>It&#39;s like trespassing and organizing your desk. <a href="https://twitter.com/laurieskelly">@laurieskelly</a> explains joy of web scraping. <a href="https://twitter.com/hashtag/bdc14?src=hash">#bdc14</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> Scrape <a href="http://t.co/CRfkv5sGgk">http://t.co/CRfkv5sGgk</a></p>&mdash; Mike Combs (@mike3d0g) <a href="https://twitter.com/mike3d0g/status/511247516202201088">September 14, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s like trespassing and organizing your desk. <a href="https://twitter.com/laurieskelly">@laurieskelly</a> explains joy of web scraping. <a href="https://twitter.com/hashtag/bdc14?src=hash">#bdc14</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> Scrape <a href="http://t.co/CRfkv5sGgk">http://t.co/CRfkv5sGgk</a></p>&mdash; Mike Combs (@mike3d0g) <a href="https://twitter.com/mike3d0g/status/511247516202201088">September 14, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ##Contents: 
 
